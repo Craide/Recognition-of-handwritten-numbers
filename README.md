@@ -1,0 +1,2 @@
+# recognition_of_handwritten_numbers
+Handwritten Digit Recognition Educational Project
